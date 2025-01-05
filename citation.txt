@@ -1,0 +1,7 @@
+@inproceedings{REPO370,
+    author = "Xu, Jiacong and Xiong, Zixiang and Bhattacharyya, Shankar P",
+    booktitle = "Proceedings of the IEEE/CVF conference on computer vision and pattern recognition",
+    pages = "19529--19539",
+    title = "{PIDNet: A real-time semantic segmentation network inspired by PID controllers}",
+    year = "2023"
+}
